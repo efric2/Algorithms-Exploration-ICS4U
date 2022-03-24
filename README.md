@@ -12,8 +12,11 @@ As I started to record my solves though, I was able to see how much I had improv
 
 ## My Solves
 Pyramix Solve(s) Completed on March 10th
+
 ao5:48.80
+
 ao12:48.66
+
 ao25:1:05.90m
 
 Pyraminx Solve(s) Completed on March 24th
