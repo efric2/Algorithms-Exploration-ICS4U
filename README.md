@@ -21,6 +21,5 @@ ao25 : 1:05.90m
 
 Pyraminx Solve(s) Completed on March 24th
 
-### My Best Time
-My best time occured on my 28th solve though, which was **0:22.51**. Even though this number wasn't included in my averages, I am very proud of it as I worked hard to reduce my times over the course of so many solves.
-
+### My Best Times
+Over the course of all the solves I completed, my three best times were 23.01 seconds, 22.51 seconds, and 17.65 seconds. I am still personally impressed by that last time, in which I solved the _Pyraminx_ in under 18 seconds.
